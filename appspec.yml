@@ -1,6 +1,6 @@
 version: 0.0
 Resources:
-  - ShoppingListFunction:
+  - ShoppingList:
       Type: AWS::Lambda::Function
       Properties:
         Name: "ShoppingListLambdaPython" 
